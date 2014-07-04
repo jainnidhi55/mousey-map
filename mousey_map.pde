@@ -48,7 +48,7 @@ void setup(){
   
   PImage b;
   b = loadImage("map.png");
-  background(0);
+  background(b);
   
 }
 
