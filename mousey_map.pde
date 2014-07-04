@@ -1,3 +1,5 @@
+/* @pjs preload = "picture.jpg";*/
+
 Location newDelhi = new Location(810,230,false);
 Location istanbul = new Location(630,175,false);
 Location bethesda = new Location(243,182,false);
